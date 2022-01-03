@@ -1,0 +1,17 @@
+This version of the network shadow scanner is a bit early,
+as I had planned to add some other features to it before uploading it to 
+github, but I will update it every so often with new features.
+--------------------------------------------------------------------------
+Esta version del escaner de red shadow es algo temprana, ya que tenia 
+planeado agragarle algunas otras funcionalidades antes de subirlo github, 
+pero lo actualizare cada cierto tiempo con nuevas funciones.
+--------------------------------------------------------------------------
+Esta versão do scanner de sombra de rede é um pouco adiantada, 
+pois planejei adicionar alguns outros recursos a ele antes de enviá-lo para o
+github,mas irei atualizá-lo de vez em quando com novos recursos.
+---------------------------------------------------------------------------
+commands
+sudo bash install.sh
+sudo python3 setup.py -t tu_ip -sN go
+help
+sudo python3 setup.py --help
